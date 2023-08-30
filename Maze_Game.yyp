@@ -35,6 +35,8 @@
   },
   "resources": [
     {"id":{"name":"oMaze1","path":"objects/oMaze1/oMaze1.yy",},},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sMaze1","path":"sprites/sMaze1/sMaze1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
