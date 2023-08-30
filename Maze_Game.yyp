@@ -34,6 +34,7 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},},
     {"id":{"name":"oMaze1","path":"objects/oMaze1/oMaze1.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"checkColl","path":"scripts/checkColl/checkColl.yy",},},
