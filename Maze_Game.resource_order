@@ -18,7 +18,10 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Camera","order":2,"path":"objects/Camera/Camera.yy",},
+    {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"oLine","order":3,"path":"objects/oLine/oLine.yy",},
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sLine","order":2,"path":"sprites/sLine/sLine.yy",},
   ],
 }

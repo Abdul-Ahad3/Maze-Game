@@ -36,10 +36,13 @@
   "resources": [
     {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},},
     {"id":{"name":"oMaze1","path":"objects/oMaze1/oMaze1.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"oLine","path":"objects/oLine/oLine.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"checkColl","path":"scripts/checkColl/checkColl.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sMaze1","path":"sprites/sMaze1/sMaze1.yy",},},
+    {"id":{"name":"sLine","path":"sprites/sLine/sLine.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
