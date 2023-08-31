@@ -1,21 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "exit_button",
+  "name": "level_1",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"main_parent_button","path":"objects/main_parent_button/main_parent_button.yy",},"propertyId":{"name":"button_text","path":"objects/main_parent_button/main_parent_button.yy",},"value":"Exit",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"level_parent_button","path":"objects/level_parent_button/level_parent_button.yy",},"propertyId":{"name":"color","path":"objects/level_parent_button/level_parent_button.yy",},"value":"F49AC2",},
   ],
   "parent": {
-    "name": "Main_Menu",
-    "path": "folders/Objects/Main_Menu.yy",
+    "name": "Levels_List",
+    "path": "folders/Objects/Levels_List.yy",
   },
   "parentObjectId": {
-    "name": "main_parent_button",
-    "path": "objects/main_parent_button/main_parent_button.yy",
+    "name": "level_parent_button",
+    "path": "objects/level_parent_button/level_parent_button.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sButton",
-    "path": "sprites/sButton/sButton.yy",
+    "name": "sLevelButton",
+    "path": "sprites/sLevelButton/sLevelButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

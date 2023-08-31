@@ -1,22 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "exit_button",
+  "name": "level_parent_button",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"main_parent_button","path":"objects/main_parent_button/main_parent_button.yy",},"propertyId":{"name":"button_text","path":"objects/main_parent_button/main_parent_button.yy",},"value":"Exit",},
-  ],
+  "overriddenProperties": [],
   "parent": {
-    "name": "Main_Menu",
-    "path": "folders/Objects/Main_Menu.yy",
+    "name": "Levels_List",
+    "path": "folders/Objects/Levels_List.yy",
   },
-  "parentObjectId": {
-    "name": "main_parent_button",
-    "path": "objects/main_parent_button/main_parent_button.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,12 +26,11 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":7,},
+  ],
   "solid": false,
-  "spriteId": {
-    "name": "sButton",
-    "path": "sprites/sButton/sButton.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
