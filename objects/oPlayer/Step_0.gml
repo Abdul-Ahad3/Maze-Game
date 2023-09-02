@@ -1,10 +1,10 @@
-r = keyboard_check(vk_right);
-l = keyboard_check(vk_left);
-u = keyboard_check(vk_up);
-d = keyboard_check(vk_down);
+var r = keyboard_check(vk_right);
+var l = keyboard_check(vk_left);
+var u = keyboard_check(vk_up);
+var d = keyboard_check(vk_down);
 
-inx = r - l;
-iny = d - u;
+var inx = r - l;
+var iny = d - u;
 
 moveX = inx * 5;
 moveY = iny * 5;
