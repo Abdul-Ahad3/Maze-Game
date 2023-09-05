@@ -30,6 +30,7 @@
     {"name":"sLevelButton","order":4,"path":"sprites/sLevelButton/sLevelButton.yy",},
     {"name":"sButton","order":3,"path":"sprites/sButton/sButton.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oLevels","order":11,"path":"objects/oLevels/oLevels.yy",},
     {"name":"Intro","order":2,"path":"rooms/Intro/Intro.yy",},
     {"name":"sMazeBlock1","order":5,"path":"sprites/sMazeBlock1/sMazeBlock1.yy",},
     {"name":"oMazeBlock1","order":10,"path":"objects/oMazeBlock1/oMazeBlock1.yy",},

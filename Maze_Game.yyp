@@ -53,6 +53,7 @@
     {"id":{"name":"End_Applause","path":"sounds/End_Applause/End_Applause.yy",},},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oLevels","path":"objects/oLevels/oLevels.yy",},},
     {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"id":{"name":"sMazeBlock1","path":"sprites/sMazeBlock1/sMazeBlock1.yy",},},
     {"id":{"name":"oMazeBlock1","path":"objects/oMazeBlock1/oMazeBlock1.yy",},},
@@ -64,8 +65,8 @@
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"roomId":{"name":"LevelEnd","path":"rooms/LevelEnd/LevelEnd.yy",},},
     {"roomId":{"name":"Levels","path":"rooms/Levels/Levels.yy",},},
