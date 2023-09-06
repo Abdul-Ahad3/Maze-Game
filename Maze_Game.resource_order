@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Levels_List","order":9,"path":"folders/Objects/Levels_List.yy",},
     {"name":"Main_Menu","order":8,"path":"folders/Objects/Main_Menu.yy",},
+    {"name":"scrollBar","order":11,"path":"folders/Objects/scrollBar.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -17,7 +18,6 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"scrollBar","order":11,"path":"folders/Objects/scrollBar.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"exit_button","order":2,"path":"objects/exit_button/exit_button.yy",},
@@ -30,6 +30,7 @@
     {"name":"play_button","order":1,"path":"objects/play_button/play_button.yy",},
     {"name":"Level1","order":5,"path":"rooms/Level1/Level1.yy",},
     {"name":"sScroll1","order":6,"path":"sprites/sScroll1/sScroll1.yy",},
+    {"name":"oLevels","order":1,"path":"objects/oLevels/oLevels.yy",},
     {"name":"sLevelButton","order":4,"path":"sprites/sLevelButton/sLevelButton.yy",},
     {"name":"sScroll2","order":7,"path":"sprites/sScroll2/sScroll2.yy",},
     {"name":"sButton","order":3,"path":"sprites/sButton/sButton.yy",},
@@ -40,5 +41,6 @@
     {"name":"oTitle","order":3,"path":"objects/oTitle/oTitle.yy",},
     {"name":"Levels","order":4,"path":"rooms/Levels/Levels.yy",},
     {"name":"sTitle","order":2,"path":"sprites/sTitle/sTitle.yy",},
+    {"name":"HexToColor","order":1,"path":"scripts/HexToColor/HexToColor.yy",},
   ],
 }
