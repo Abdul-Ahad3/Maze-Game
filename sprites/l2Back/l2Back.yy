@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Backgrounds",
+    "path": "folders/Rooms/Backgrounds.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
