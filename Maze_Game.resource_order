@@ -38,7 +38,7 @@
     {"name":"Level7","order":6,"path":"rooms/Level7/Level7.yy",},
     {"name":"sButton","order":3,"path":"sprites/sButton/sButton.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
-    {"name":"l9Back","order":9,"path":"sprites/l9Back/l9Back.yy",},
+    {"name":"l9Back","order":8,"path":"sprites/l9Back/l9Back.yy",},
     {"name":"Intro","order":2,"path":"rooms/Intro/Intro.yy",},
     {"name":"sMazeBlock1","order":5,"path":"sprites/sMazeBlock1/sMazeBlock1.yy",},
     {"name":"Level8","order":7,"path":"rooms/Level8/Level8.yy",},

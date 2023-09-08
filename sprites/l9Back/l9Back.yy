@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "All_Levels",
-    "path": "folders/Rooms/All_Levels.yy",
+    "name": "Backgrounds",
+    "path": "folders/Rooms/Backgrounds.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
