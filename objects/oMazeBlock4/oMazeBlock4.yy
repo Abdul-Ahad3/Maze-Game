@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oMazeBlock3",
+  "name": "oMazeBlock4",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -12,7 +12,7 @@
   "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
-  "physicsDensity": 0.0,
+  "physicsDensity": 0.5,
   "physicsFriction": 0.2,
   "physicsGroup": 1,
   "physicsKinematic": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sMazeBlock3",
-    "path": "sprites/sMazeBlock3/sMazeBlock3.yy",
+    "name": "sMazeBlock4",
+    "path": "sprites/sMazeBlock4/sMazeBlock4.yy",
   },
   "spriteMaskId": null,
   "visible": true,

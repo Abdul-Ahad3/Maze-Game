@@ -11,8 +11,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":null,"propertyId":null,"value":"0",},
   ],
   "parent": {
-    "name": "Levels_List",
-    "path": "folders/Objects/Levels_List.yy",
+    "name": "olevels",
+    "path": "folders/Objects/olevels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
