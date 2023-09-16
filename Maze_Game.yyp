@@ -62,6 +62,7 @@
     {"id":{"name":"sLevelButton","path":"sprites/sLevelButton/sLevelButton.yy",},},
     {"id":{"name":"l3Back","path":"sprites/l3Back/l3Back.yy",},},
     {"id":{"name":"checkColl","path":"scripts/checkColl/checkColl.yy",},},
+    {"id":{"name":"sMazeBlock5","path":"sprites/sMazeBlock5/sMazeBlock5.yy",},},
     {"id":{"name":"End_Applause","path":"sounds/End_Applause/End_Applause.yy",},},
     {"id":{"name":"Level7","path":"rooms/Level7/Level7.yy",},},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
