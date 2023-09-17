@@ -42,6 +42,7 @@
   "resources": [
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
     {"id":{"name":"main_parent_button","path":"objects/main_parent_button/main_parent_button.yy",},},
+    {"id":{"name":"manual_button","path":"objects/manual_button/manual_button.yy",},},
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"sMazeBlock9","path":"sprites/sMazeBlock9/sMazeBlock9.yy",},},
     {"id":{"name":"l1Back","path":"sprites/l1Back/l1Back.yy",},},
@@ -72,6 +73,7 @@
     {"id":{"name":"Level7","path":"rooms/Level7/Level7.yy",},},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"settings_button","path":"objects/settings_button/settings_button.yy",},},
     {"id":{"name":"l9Back","path":"sprites/l9Back/l9Back.yy",},},
     {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"id":{"name":"sMazeBlock1","path":"sprites/sMazeBlock1/sMazeBlock1.yy",},},
@@ -90,6 +92,7 @@
     {"id":{"name":"Level6","path":"rooms/Level6/Level6.yy",},},
     {"id":{"name":"sMazeBlock2","path":"sprites/sMazeBlock2/sMazeBlock2.yy",},},
     {"id":{"name":"l6Back","path":"sprites/l6Back/l6Back.yy",},},
+    {"id":{"name":"HowToPlay","path":"rooms/HowToPlay/HowToPlay.yy",},},
     {"id":{"name":"oMazeBlock8","path":"objects/oMazeBlock8/oMazeBlock8.yy",},},
     {"id":{"name":"sMazeBlock8","path":"sprites/sMazeBlock8/sMazeBlock8.yy",},},
     {"id":{"name":"sTitle","path":"sprites/sTitle/sTitle.yy",},},
@@ -109,6 +112,7 @@
     {"roomId":{"name":"Level7","path":"rooms/Level7/Level7.yy",},},
     {"roomId":{"name":"Level8","path":"rooms/Level8/Level8.yy",},},
     {"roomId":{"name":"Level9","path":"rooms/Level9/Level9.yy",},},
+    {"roomId":{"name":"HowToPlay","path":"rooms/HowToPlay/HowToPlay.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

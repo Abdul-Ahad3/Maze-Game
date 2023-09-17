@@ -23,6 +23,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"exit_button","order":2,"path":"objects/exit_button/exit_button.yy",},
+    {"name":"manual_button","order":3,"path":"objects/manual_button/manual_button.yy",},
     {"name":"Level3","order":2,"path":"rooms/Level3/Level3.yy",},
     {"name":"sMazeBlock9","order":8,"path":"sprites/sMazeBlock9/sMazeBlock9.yy",},
     {"name":"oBackButton","order":11,"path":"objects/oBackButton/oBackButton.yy",},
@@ -48,6 +49,7 @@
     {"name":"Level7","order":6,"path":"rooms/Level7/Level7.yy",},
     {"name":"sButton","order":3,"path":"sprites/sButton/sButton.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"settings_button","order":4,"path":"objects/settings_button/settings_button.yy",},
     {"name":"l9Back","order":8,"path":"sprites/l9Back/l9Back.yy",},
     {"name":"Intro","order":2,"path":"rooms/Intro/Intro.yy",},
     {"name":"Level8","order":7,"path":"rooms/Level8/Level8.yy",},
@@ -65,6 +67,7 @@
     {"name":"Level6","order":5,"path":"rooms/Level6/Level6.yy",},
     {"name":"sMazeBlock2","order":1,"path":"sprites/sMazeBlock2/sMazeBlock2.yy",},
     {"name":"l6Back","order":5,"path":"sprites/l6Back/l6Back.yy",},
+    {"name":"HowToPlay","order":9,"path":"rooms/HowToPlay/HowToPlay.yy",},
     {"name":"oMazeBlock8","order":8,"path":"objects/oMazeBlock8/oMazeBlock8.yy",},
     {"name":"sMazeBlock8","order":7,"path":"sprites/sMazeBlock8/sMazeBlock8.yy",},
     {"name":"sTitle","order":2,"path":"sprites/sTitle/sTitle.yy",},

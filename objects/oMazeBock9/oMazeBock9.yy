@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sMazeBlock9",
+    "path": "sprites/sMazeBlock9/sMazeBlock9.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
