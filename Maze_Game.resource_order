@@ -22,6 +22,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Settings","order":10,"path":"rooms/Settings/Settings.yy",},
     {"name":"exit_button","order":2,"path":"objects/exit_button/exit_button.yy",},
     {"name":"manual_button","order":3,"path":"objects/manual_button/manual_button.yy",},
     {"name":"Level3","order":2,"path":"rooms/Level3/Level3.yy",},
@@ -46,6 +47,7 @@
     {"name":"sMazeBlock7","order":6,"path":"sprites/sMazeBlock7/sMazeBlock7.yy",},
     {"name":"sMazeBlock5","order":4,"path":"sprites/sMazeBlock5/sMazeBlock5.yy",},
     {"name":"oMazeBlock9","order":9,"path":"objects/oMazeBlock9/oMazeBlock9.yy",},
+    {"name":"mainBack","order":9,"path":"sprites/mainBack/mainBack.yy",},
     {"name":"Level7","order":6,"path":"rooms/Level7/Level7.yy",},
     {"name":"sButton","order":3,"path":"sprites/sButton/sButton.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},

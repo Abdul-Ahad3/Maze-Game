@@ -40,6 +40,7 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
     {"id":{"name":"main_parent_button","path":"objects/main_parent_button/main_parent_button.yy",},},
     {"id":{"name":"manual_button","path":"objects/manual_button/manual_button.yy",},},
@@ -70,6 +71,7 @@
     {"id":{"name":"sMazeBlock5","path":"sprites/sMazeBlock5/sMazeBlock5.yy",},},
     {"id":{"name":"oMazeBlock9","path":"objects/oMazeBlock9/oMazeBlock9.yy",},},
     {"id":{"name":"End_Applause","path":"sounds/End_Applause/End_Applause.yy",},},
+    {"id":{"name":"mainBack","path":"sprites/mainBack/mainBack.yy",},},
     {"id":{"name":"Level7","path":"rooms/Level7/Level7.yy",},},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -113,6 +115,7 @@
     {"roomId":{"name":"Level8","path":"rooms/Level8/Level8.yy",},},
     {"roomId":{"name":"Level9","path":"rooms/Level9/Level9.yy",},},
     {"roomId":{"name":"HowToPlay","path":"rooms/HowToPlay/HowToPlay.yy",},},
+    {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

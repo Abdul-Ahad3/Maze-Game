@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "settings_button",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"main_parent_button","path":"objects/main_parent_button/main_parent_button.yy",},"propertyId":{"name":"button_text","path":"objects/main_parent_button/main_parent_button.yy",},"value":"Settings",},
