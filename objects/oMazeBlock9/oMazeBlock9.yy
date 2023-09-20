@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oMazeBock9",
+  "name": "oMazeBlock9",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

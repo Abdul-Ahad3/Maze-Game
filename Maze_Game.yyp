@@ -68,7 +68,7 @@
     {"id":{"name":"checkColl","path":"scripts/checkColl/checkColl.yy",},},
     {"id":{"name":"sMazeBlock7","path":"sprites/sMazeBlock7/sMazeBlock7.yy",},},
     {"id":{"name":"sMazeBlock5","path":"sprites/sMazeBlock5/sMazeBlock5.yy",},},
-    {"id":{"name":"oMazeBock9","path":"objects/oMazeBock9/oMazeBock9.yy",},},
+    {"id":{"name":"oMazeBlock9","path":"objects/oMazeBlock9/oMazeBlock9.yy",},},
     {"id":{"name":"End_Applause","path":"sounds/End_Applause/End_Applause.yy",},},
     {"id":{"name":"Level7","path":"rooms/Level7/Level7.yy",},},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
