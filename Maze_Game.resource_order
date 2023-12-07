@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Main_Menu","order":8,"path":"folders/Objects/Main_Menu.yy",},
     {"name":"olevels","order":9,"path":"folders/Objects/olevels.yy",},
+    {"name":"Settings","order":13,"path":"folders/Objects/Settings.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -20,7 +21,6 @@
     {"name":"slevels","order":8,"path":"folders/Sprites/slevels.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Settings","order":13,"path":"folders/Objects/Settings.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Settings","order":10,"path":"rooms/Settings/Settings.yy",},
